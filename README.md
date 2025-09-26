@@ -33,6 +33,7 @@
 [файл haproxy](cfg/haproxy.cfg)
 
 ![img](img/screenshot_1.png)
+
 ![img](img/screenshot_2.png)
 ---
 
