@@ -30,11 +30,13 @@
 * На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 #### Результат:
-[файл haproxy](cfg/haproxy.cfg)
+
+[файл haproxy](cfg/haproxy_zadanie_1.cfg)
 
 ![img](img/screenshot_1.png)
 
 ![img](img/screenshot_2.png)
+
 ---
 
 ### Задание 2
@@ -45,3 +47,11 @@
 * На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него.
 
 #### Результат:
+
+[файл haproxy](cfg/haproxy_zadanie_2.cfg)
+
+![img](img/screenshot_3.png)
+
+![img](img/screenshot_4.png)
+
+![img](img/screenshot_5.png)
